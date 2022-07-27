@@ -1,5 +1,5 @@
 Music-Recommendation-System
-A system to recommend music to users based upon different algorithms
+A system to recommend music to users based upon different algorithms.
 Million Songs Dataset - Recommendation Engine
 
 Dataset Information
